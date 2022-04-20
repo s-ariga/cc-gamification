@@ -1,0 +1,7 @@
+# Seiichi Ariga <seiichi.ariga@gmail.com>
+
+# 編集にVSCode使ってます
+.vscode/
+
+# マークダウンから生成するので、PDFは含めない
+*.pdf
